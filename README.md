@@ -1,2 +1,2 @@
-# arduino_source_code
+# Arduino
 Just some arduino code
